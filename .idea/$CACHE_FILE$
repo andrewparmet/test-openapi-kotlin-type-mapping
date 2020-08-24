@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/protokt-integration" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/squash_lambdas" value="PREVIEW" />
+        <entry key="$USER_HOME$/personal/squash_lambdas" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/code-retreat-starters/kotlin" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/local-sync" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/mapdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/orders-domain" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/pb-and-k" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/protokt" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/protokt/conformance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/protokt/protokt-testing" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/synthetic-sync-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/toast-automation" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/toast-publish" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/toast-rabbitmq-common" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/toastmobile" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/git-repos/toastweb" value="PREVIEW" />
+        <entry key="$USER_HOME$/toast/toastweb" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>

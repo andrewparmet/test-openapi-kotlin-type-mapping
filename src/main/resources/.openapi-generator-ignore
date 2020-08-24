@@ -1,0 +1,5 @@
+**/docs/**
+**/org/openapitools/client/**
+**/build.gradle
+**/README.md
+**/settings.gradle
